@@ -24,6 +24,7 @@ function switchOnCharmFromTip(tipString){
   if tipString === "thanks for everything" // "Bye."
 
 switch(tipString){
-  case "generous"
+  case "generous":
+  return "Thank you so much."
 }
 }
