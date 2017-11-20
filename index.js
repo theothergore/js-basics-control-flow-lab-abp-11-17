@@ -1,5 +1,5 @@
-scuberGreetingForFeet(199) {
-  if (scuberGreetingForFeet <= 400){
+function scuberGreetingForFeet(distance) {
+  if (distance < 400){
     return "This one is on me!";
   }
 }
